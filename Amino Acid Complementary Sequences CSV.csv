@@ -1,0 +1,102 @@
+Amino Acid,Nucleotide Sequence,3-letter Name,1-Letter Name
+Methionine,ATG,Met,M
+Methionine,AUG,Met,M
+Phenylalanine,TTT,Phe,F
+Phenylalanine,TTC,Phe,F
+Phenylalanine,UUU,Phe,F
+Phenylalanine,UUC,Phe,F
+Leucine,TTA,Leu,L
+Leucine,TTG,Leu,L
+Leucine,CTT,Leu,L
+Leucine,CTC,Leu,L
+Leucine,CTA,Leu,L
+Leucine,CTG,Leu,L
+Leucine,UUA,Leu,L
+Leucine,UUG,Leu,L
+Leucine,CUU,Leu,L
+Leucine,CUC,Leu,L
+Leucine,CUA,Leu,L
+Leucine,CUG,Leu,L
+Isoleucine,ATT,Ile,I
+Isoleucine,ATC,Ile,I
+Isoleucine,ATA,Ile,I
+Isoleucine,AUU,Ile,I
+Isoleucine,AUC,Ile,I
+Isoleucine,AUA,Ile,I
+Valine,GTT,Val,V
+Valine,GTC,Val,V
+Valine,GTA,Val,V
+Valine,GTG,Val,V
+Valine,GUU,Val,V
+Valine,GUC,Val,V
+Valine,GUA,Val,V
+Valine,GUG,Val,V
+Serine,TCT,Ser,S
+Serine,TCC,Ser,S
+Serine,TCA,Ser,S
+Serine,TCG,Ser,S
+Serine,UCU,Ser,S
+Serine,UCC,Ser,S
+Serine,UCA,Ser,S
+Serine,UCG,Ser,S
+Proline,CCT,Pro,P
+Proline,CCC,Pro,P
+Proline,CCA,Pro,P
+Proline,CCG,Pro,P
+Proline,CCU,Pro,P
+Threonine,ACT,Thr,T
+Threonine,ACC,Thr,T
+Threonine,ACA,Thr,T
+Threonine,ACG,Thr,T
+Threonine,ACU,Thr,T
+Alanine,GCT,Ala,A
+Alanine,GCC,Ala,A
+Alanine,GCA,Ala,A
+Alanine,GCG,Ala,A
+Alanine,GCU,Ala,A
+Tyrosine,TAT,Tyr,Y
+Tyrosine,TAC,Tyr,Y
+Tyrosine,UAU,Tyr,Y
+Tyrosine,UAC,Tyr,Y
+Histidine,CAT,His,H
+Histidine,CAC,His,H
+Histidine,CAU,His,H
+Glutamine,CAA,Gln,Q
+Glutamine,CAG,Gln,Q
+Asparagine,AAT,Asn,N
+Asparagine,AAC,Asn,N
+Asparagine,AAU,Asn,N
+Lysine,AAA,Lys,K
+Lysine,AAG,Lys,K
+Aspartic Acid,GAT,Asp,D
+Aspartic Acid,GAC,Asp,D
+Aspartic Acid,GAU,Asp,D
+Glutamic Acid,GAA,Glu,E
+Glutamic Acid,GAG,Glu,E
+Cysteine,TGT,Cys,C
+Cysteine,TGC,Cys,C
+Cysteine,UGU,Cys,C
+Cysteine,UGC,Cys,C
+Tryptophan,TGG,Trp,W
+Tryptophan,UGG,Trp,W
+Arginine,CGT,Arg,R
+Arginine,CGC,Arg,R
+Arginine,CGA,Arg,R
+Arginine,CGG,Arg,R
+Arginine,CGU,Arg,R
+Serine,AGT,Ser,S
+Serine,AGC,Ser,S
+Serine,AGU,Ser,S
+Arginine,AGA,Arg,R
+Arginine,AGG,Arg,R
+Glycine,GGT,Gly,G
+Glycine,GGC,Gly,G
+Glycine,GGA,Gly,G
+Glycine,GGG,Gly,G
+Glycine,GGU,Gly,G
+Stop Codon,TAA,Stop,Stop
+Stop Codon,TAG,Stop,Stop
+Stop Codon,TGA,Stop,Stop
+Stop Codon,UAA,Stop,Stop
+Stop Codon,UAG,Stop,Stop
+Stop Codon,UGA,Stop,Stop
